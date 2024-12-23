@@ -1,2 +1,11 @@
 # E-commerce-website-
-Static e-commerce website built with HTML, CSS, and JavaScript. Features include a responsive design, product showcase, basic animations, and "Add to Cart" functionality (UI only, no backend). A beginner-friendly project to explore front-end web development concepts. Clone and customize as needed!
+This is a static e-commerce website built using HTML, CSS, and JavaScript. The project showcases a responsive and interactive e-commerce platform with the following features:
+
+Homepage with a product showcase.
+Product listing and details page.
+Add to Cart functionality (UI-based, no backend).
+Responsive design for mobile, tablet, and desktop screens.
+Basic animations for a modern user experience.
+This project serves as a foundation for understanding front-end web development and is ideal for beginners looking to enhance their web development skills.
+
+Feel free to clone, modify, and explore!
